@@ -70,6 +70,13 @@ Statsmodels (ARIMA, ACF, PACF) – time series modeling
 ipywidgets – interactive asset/date selection
 
 
+![image alt](https://github.com/AryanSahay1/ARIMA-MODEL/blob/main/download%20(1).png?raw=true)
+![image alt](https://github.com/AryanSahay1/ARIMA-MODEL/blob/main/download%20(2).png?raw=true)
+![image alt](https://github.com/AryanSahay1/ARIMA-MODEL/blob/main/Screenshot%202025-09-27%20122424.png?raw=true)
+![image alt](https://github.com/AryanSahay1/ARIMA-MODEL/blob/main/download%20(4).png?raw=true)
+![image alt](https://github.com/AryanSahay1/ARIMA-MODEL/blob/main/download%20(7).png?raw=true)
+
+
 
 👤 Author: Aryan Sahay
 ⚠️ Disclaimer: This project is for educational and research purposes only. It is not financial advice.
